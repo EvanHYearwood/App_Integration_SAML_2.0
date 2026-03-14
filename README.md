@@ -100,6 +100,7 @@ Each app includes:
 - A **`/logout`** route that clears the local session
 - A themed **dashboard** showing the authenticated user's identity pulled from the SAML assertion
 
+
 ### Folder Structure
 
 ```
