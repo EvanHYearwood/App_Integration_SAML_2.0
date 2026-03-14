@@ -9,7 +9,7 @@ A hands-on project demonstrating how to build and deploy custom SAML 2.0 Service
 
 ## 📺 Demo Walkthrough
 
-- ### [Watch the Demo Video 🚀](#) *(Coming Soon)*
+- ### [Watch the Demo Video 🚀](https://youtu.be/xrEw5SQhKI8)
 
 ---
 
