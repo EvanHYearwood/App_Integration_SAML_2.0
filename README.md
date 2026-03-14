@@ -68,7 +68,7 @@ When a user visits one of the apps and clicks **Sign in with Okta SSO**, the ful
          ↓
 6. Session created — user is logged in
 ```
-
+![image alt](https://github.com/EvanHYearwood/App_Integration_SAML_2.0/blob/5886fc10b4b953a56140d9dbd2ef853c90fe9be8/SAML%20Authn%20Workflow.png)
 
 **Key terms:**
 | Term | Meaning |
