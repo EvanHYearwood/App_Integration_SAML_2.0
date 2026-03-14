@@ -69,6 +69,7 @@ When a user visits one of the apps and clicks **Sign in with Okta SSO**, the ful
 6. Session created — user is logged in
 ```
 
+
 **Key terms:**
 | Term | Meaning |
 |------|---------|
