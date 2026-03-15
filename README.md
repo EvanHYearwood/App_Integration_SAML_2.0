@@ -31,11 +31,11 @@ A hands-on project demonstrating how to build and deploy custom SAML 2.0 Service
 
 ## Project Overview
 
-The goal of this project was to simulate what it looks like when an organization integrates internal or third-party applications with a cloud Identity Provider using SAML 2.0 — without needing access to the real paid SaaS tools.
+The goal of this project was to simulate what it looks like when an organization integrates internal or third-party applications with a cloud Identity Provider using SAML 2.0, without needing access to the real paid SaaS tools.
 
 Three custom web applications were built to act as SAML Service Providers, each themed to represent a common enterprise application. Okta serves as the Identity Provider, and all users are sourced from an on-premises Active Directory domain (`yearwood.local`).
 
-When a user visits one of the apps and clicks **Sign in with Okta SSO**, the full SAML authentication flow executes — the browser is redirected to Okta, the user authenticates, Okta sends a signed SAML assertion back to the app, the app validates it, and a session is created.
+When a user visits one of the apps and clicks **Sign in with Okta SSO**, the full SAML authentication flow executes, the browser is redirected to Okta, the user authenticates, Okta sends a signed SAML assertion back to the app, the app validates it, and a session is created.
 
 ---
 
