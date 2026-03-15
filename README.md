@@ -122,7 +122,7 @@ saml-apps/
 └── sharepoint-app/
     └── ...
 ```
-
+![image alt](https://github.com/EvanHYearwood/App_Integration_SAML_2.0/blob/565f02db62d7bf28c30304fdf28b4b3cfc99e686/Folder-Structure-q1.png)
 ---
 
 ## Phase 1 — DNS Setup
@@ -144,6 +144,7 @@ This allows any machine joined to `yearwood.local` to resolve `slack.yearwood.lo
 4. Add each hostname pointing to the DC's IP
 5. Repeat for all three
 
+![image alt](https://github.com/EvanHYearwood/App_Integration_SAML_2.0/blob/565f02db62d7bf28c30304fdf28b4b3cfc99e686/A%20Records-q1-2026.png)
 ---
 
 ## Phase 2 — Okta SAML App Configuration
@@ -249,6 +250,10 @@ Each terminal will show:
 ```
 This means the app is live and listening. The red "development server" warning from Flask is expected and can be ignored for a homelab.
 
+![image alt](https://github.com/EvanHYearwood/App_Integration_SAML_2.0/blob/565f02db62d7bf28c30304fdf28b4b3cfc99e686/Slack-SaaS-App.png)
+![image alt](https://github.com/EvanHYearwood/App_Integration_SAML_2.0/blob/8978c2aabd61c2d4391be8f3e38a5d2cbda0647f/Sharepoint-SaaS-App.png)
+![image alt](https://github.com/EvanHYearwood/App_Integration_SAML_2.0/blob/8978c2aabd61c2d4391be8f3e38a5d2cbda0647f/Gworkspace-SaaS-App.png)
+
 ---
 
 ## Errors & Troubleshooting
@@ -327,7 +332,10 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 | Claude (Anthropic) | AI-assisted Flask app code generation |
 
 ---
+## 📺 Demo Walkthrough
 
+- ### [Watch the Demo Video 🚀](https://youtu.be/xrEw5SQhKI8)
+---
 ## Project Status
 
 ✅ DNS A records configured for all 3 subdomains  
